@@ -1,11 +1,6 @@
 # Overtest 🚀
 
-<div align="left">
-  <a href="https://overtest.atlassian.net/"><img src="https://img.shields.io/badge/Issue%20tracker-Jira-blue" alt="Issue tracker"></a>
-  <a href="https://github.com/thesirkadirov/overtest/actions"><img src="https://github.com/thesirkadirov/overtest/workflows/Overtest%20CI/badge.svg" alt="CI status"></a>
-  <a href="https://www.codefactor.io/repository/github/thesirkadirov/overtest"><img src="https://www.codefactor.io/repository/github/thesirkadirov/overtest/badge" alt="CodeFactor" /></a>
-  <a href="https://github.com/thesirkadirov/overtest/blob/develop/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/thesirkadirov/overtest"></a>
-</div>
+### Project development moved to [Overtest](https://github.com/overtest) organization on GitHub. See repository [overtest/overtest](https://github.com/overtest/overtest) 😃!
 
 **Overtest** is an educational software package for studying, teaching and holding competitions in algorithmic and sports programming. To verify user solutions, the system compiles their source code, and then repeatedly runs the resulting program on a given set of tests, with hard restrictions on the resources used and execution time.
 
